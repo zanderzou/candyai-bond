@@ -1,0 +1,34 @@
+# Candy AI Guide
+
+> Independent Candy AI review covering AI girlfriends, custom companions, chat, voice calls, images, video, pricing, tokens, privacy, safety, and alternatives.
+
+Canonical publication: https://candyai.bond/
+
+This is an independent editorial publication, not the official provider. Articles distinguish published provider information from suggested evaluation methods. Examples and proposed tests are not measured benchmark results. Check dated sources and live provider terms for changing features and prices.
+
+## Main pages
+
+- [Homepage](https://candyai.bond/): Overview and practical decision guidance.
+- [Blog and comparisons](https://candyai.bond/blog/): Browse the editorial article collection.
+
+## Comparisons
+
+- [Candy AI vs CrushOn AI: Features, Strengths, Weaknesses](https://candyai.bond/blog/candy-ai-vs-crushon-ai/)
+- [Candy AI vs DreamGF: Features, Strengths, Weaknesses](https://candyai.bond/blog/candy-ai-vs-dreamgf/)
+- [Candy AI vs GirlfriendGPT: Features, Strengths, Weaknesses](https://candyai.bond/blog/candy-ai-vs-girlfriendgpt/)
+- [Candy AI vs Lovescape: Which Companion Fits You?](https://candyai.bond/blog/candy-ai-vs-lovescape/)
+- [Candy AI vs OurDream AI: Companion or Creative Suite?](https://candyai.bond/blog/candy-ai-vs-ourdream-ai/)
+
+## Publication information
+
+- [About](https://candyai.bond/about/)
+- [Editorial policy](https://candyai.bond/editorial-policy/)
+- [Contact](https://candyai.bond/contact/)
+- [Privacy policy](https://candyai.bond/privacy/)
+- [Terms](https://candyai.bond/terms/)
+
+## Optional
+
+- [XML sitemap](https://candyai.bond/sitemap-index.xml): Canonical page inventory.
+- [RSS feed](https://candyai.bond/rss.xml): Published article updates.
+- [Robots policy](https://candyai.bond/robots.txt): Crawler access directives.
