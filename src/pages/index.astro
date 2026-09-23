@@ -17,7 +17,7 @@ const faqs=[
 ];
 const jsonLd={"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":`${site.url}/#website`,name:site.name,url:site.url,description:site.description,inLanguage:"en"},{"@type":"Organization","@id":`${site.url}/#organization`,name:site.name,url:site.url,logo:`${site.url}/favicon.svg`},{"@type":"WebPage","@id":`${site.url}/#webpage`,name:"Candy AI Review: AI Girlfriends, Pricing, Tokens & Safety",url:site.url,isPartOf:{"@id":`${site.url}/#website`},about:["Candy AI","Candy AI review","AI girlfriend","AI companion","Candy AI pricing","Candy AI tokens","Candy AI alternatives"]},{"@type":"FAQPage",mainEntity:faqs.map((faq)=>({"@type":"Question",name:faq.question,acceptedAnswer:{"@type":"Answer",text:faq.answer}}))}]};
 ---
-<BaseLayout title="Candy AI Review: Girlfriends, Pricing & Safety" description={site.description} keywords={["Candy AI","Candy AI review","Candy AI girlfriend","AI girlfriend","AI companion","Candy AI pricing","Candy AI tokens","Candy AI safety","Candy AI alternatives"]} jsonLd={jsonLd}>
+<BaseLayout title="Candy AI" description={site.description} keywords={["Candy AI","Candy AI review","Candy AI girlfriend","AI girlfriend","AI companion","Candy AI pricing","Candy AI tokens","Candy AI safety","Candy AI alternatives"]} jsonLd={jsonLd}>
   <section class="hero candy-hero">
     <Image class="hero-image" src={heroImage} alt="Adult fictional companion in a close-up studio portrait" widths={[640,960,1280,1536]} sizes="100vw" loading="eager" fetchpriority="high" quality={86}/>
     <div class="hero-glow"></div>

@@ -1,5 +1,5 @@
 export const site = {
-  name: "Candy AI Guide",
+  name: "Candy AI",
   domain: "candyai.bond",
   url: "https://candyai.bond",
   description: "Independent Candy AI review covering AI girlfriends, custom companions, chat, voice calls, images, video, pricing, tokens, privacy, safety, and alternatives.",
