@@ -10,15 +10,21 @@
     "dev": "node scripts/run-astro.mjs dev",
     "build": "node scripts/run-astro.mjs build && node scripts/prepare-sites-build.mjs",
     "preview": "node scripts/run-astro.mjs preview",
-    "test:seo": "node scripts/audit-static.mjs",
+    "test:seo": "node scripts/audit-static.mjs && node scripts/audit-outbound-links.mjs",
     "test:sites": "node --test tests/sites-worker.test.mjs",
+    "check": "node scripts/run-astro.mjs check",
     "generate:llms": "node scripts/generate-llms.mjs",
     "test:llms": "node scripts/generate-llms.mjs --check",
-    "prebuild": "npm run generate:llms"
+    "prebuild": "npm run generate:llms",
+    "verify": "npm run build && npm run test:seo && npm run test:llms && npm run test:sites && npm run check"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
     "@shikijs/vscode-textmate": "^10.0.2",
     "astro": "^7.3.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^6.0.3"
   }
 }
