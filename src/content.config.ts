@@ -1,3 +1,4 @@
+import { publicEditionsPublished } from "./data/private-locales";
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
@@ -17,4 +18,11 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+const draftLocales = defineCollection({
+  loader: publicEditionsPublished || (process.env.CANDY_PRIVATE_I18N_PREVIEW === "local-only" && !process.env.CI && !process.env.CF_PAGES)
+    ? glob({ pattern: ["**/*.md", "!**/README.md", "!**/SOURCES.md"], base: "./src/drafts" })
+    : { name: "private-locales-disabled", async load({ store }) { store.clear(); } },
+  schema: z.object({ locale: z.enum(["ja", "es", "zh-hant", "ko", "pt-br", "de", "fr", "ru", "ar"]), route: z.string().regex(/^\/(?:ja|es|zh-hant|ko|pt-br|de|fr|ru|ar)\//), title: z.string().min(1), description: z.string().min(1), status: z.literal("private-draft") }),
+});
+
+export const collections = { blog, draftLocales };
