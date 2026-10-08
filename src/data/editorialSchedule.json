@@ -1,0 +1,98 @@
+{
+  "domain": "candyai.bond",
+  "timeZone": "Asia/Shanghai",
+  "policy": "New articles are English-only. Quality review is required before a date can enable a release. Existing publications are preserved.",
+  "articles": [
+    {
+      "order": 1,
+      "slug": "candy-ai-vs-nomi-media-memory-routine",
+      "title": "Candy AI vs Nomi: Media or Conversation Continuity",
+      "opponent": "Nomi",
+      "readerQuestion": "optional media generation versus a text-led continuing companion",
+      "releaseAt": "2026-10-08T05:01:14.153Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-10-08",
+      "reviewedSha256": "b0464bb92ea7391b0e29243aa850dc1a679abe852dc2846331068f7202098c07",
+      "wordCount": 509,
+      "editorialIntent": "Evaluate media access and returning conversation context as separate parts of a companion routine.",
+      "sources": [
+        [
+          "Candy Proactive Media Controls",
+          "https://everai.zendesk.com/hc/en-us/articles/61541831061145-Why-does-my-AI-proactively-send-photos-voice-notes-and-videos-even-if-I-didn-t-request-them"
+        ],
+        [
+          "Candy History and Memory",
+          "https://everai.zendesk.com/hc/en-us/articles/58793608908825-How-do-I-clear-chat-history-without-resetting-memory"
+        ],
+        [
+          "Nomi Updates",
+          "https://nomi.ai/updates/"
+        ],
+        [
+          "Nomi Mind Map",
+          "https://nomi.ai/updates/mind-map-2-0-bringing-nomi-memory-into-view/"
+        ]
+      ]
+    },
+    {
+      "order": 2,
+      "slug": "candy-ai-vs-kindroid-personality-controls",
+      "title": "Candy AI vs Kindroid: Personality Controls",
+      "opponent": "Kindroid",
+      "readerQuestion": "preset preferences versus editable behavioral instructions",
+      "releaseAt": "2026-10-15T23:20:12.625Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-10-08",
+      "reviewedSha256": "5432e24c80399c1289575ce1a844f1835ce432bfee162c09506d1092f4550331",
+      "wordCount": 491,
+      "editorialIntent": "Evaluate control over a companion’s speaking style without mistaking presets or lengthy definitions for guaranteed behavior.",
+      "sources": [
+        [
+          "Candy AI Website",
+          "https://candy.ai/"
+        ],
+        [
+          "Kindroid Personality",
+          "https://kindroid.ai/v2/docs/customizing-personality/"
+        ],
+        [
+          "Kindroid Memory",
+          "https://kindroid.ai/v2/docs/memory/"
+        ]
+      ]
+    },
+    {
+      "order": 3,
+      "slug": "candy-ai-vs-replika-voice-avatar-routine",
+      "title": "Candy AI vs Replika: Voice and Avatar Routine",
+      "opponent": "Replika",
+      "readerQuestion": "what to verify before choosing a voice and avatar routine",
+      "releaseAt": "2026-10-23T16:41:00.742Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-10-08",
+      "reviewedSha256": "f01eb40c7ee01a8e8a5405aa8c574474b6e08e8b34bf6a9149762dcf12fc093a",
+      "wordCount": 498,
+      "editorialIntent": "Evaluate a short voice routine and its visual preferences as separate requirements.",
+      "sources": [
+        [
+          "Candy Audio and Video Availability",
+          "https://everai.zendesk.com/hc/en-us/articles/58794500759449-Why-are-audio-video-features-unavailable"
+        ],
+        [
+          "Replika Pro Features",
+          "https://help.replika.com/hc/en-us/articles/360032500052-What-is-Replika-Pro"
+        ],
+        [
+          "Replika Avatar Customization",
+          "https://help.replika.com/hc/en-us/articles/360046050652-How-do-I-change-my-Replika-s-avatar"
+        ]
+      ]
+    }
+  ]
+}

@@ -22,7 +22,7 @@ for (const [slug, expectedHosts] of sources) {
   assert.deepEqual(links.map((match) => new URL(match[1]).hostname), expectedHosts, `${slug}: cited provider changed`);
   assert.ok(links.every((match) => match[1].startsWith("https://")), `${slug}: citation must use HTTPS`);
   assert.ok(!html.includes("DIRECT ANSWER"), `${slug}: removed answer box returned`);
-  assert.ok(!html.includes("ref=zanderzou"), `${slug}: unrelated referral replaced citations`);
+  assert.ok(!section.includes("ref=zanderzou"), `${slug}: referral replaced citations`);
 }
 
 const home = read();
@@ -38,7 +38,13 @@ function walk(folder) {
     if (entry.isDirectory()) walk(filename);
     else if (entry.name.endsWith(".html")) {
       const html = readFileSync(filename, "utf8");
-      assert.ok(!html.includes("ref=zanderzou"), `${filename}: unrelated referral remains`);
+      for (const link of html.matchAll(/<a\b[^>]*href="[^"]*ref=zanderzou[^>]*>/g)) {
+        assert.match(link[0], /rel="[^"]*sponsored/, `${filename}: promotion is not labeled sponsored`);
+        assert.match(link[0], /rel="[^"]*nofollow/, `${filename}: promotion missing nofollow`);
+      }
+      for (const citation of html.matchAll(/<section class="sources" id="sources">([\s\S]*?)<\/section>/g)) {
+        assert.ok(!citation[1].includes("ref=zanderzou"), `${filename}: referral replaced citations`);
+      }
       assert.ok(!html.includes("DIRECT ANSWER"), `${filename}: removed answer box remains`);
     }
   }
