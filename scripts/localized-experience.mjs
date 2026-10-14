@@ -45,8 +45,8 @@ export async function applyLocalizedExperience(out,config){
   }
   const heroPromos=hero?descendants(hero).filter(promo):[];
   const extra=new Set(heroPromos.slice(1));
-  if(hero&&!heroPromos.length){const heading=descendants(hero).find(n=>n.name==='h1'),lead=heading.parent.children.find(n=>n.name==='p')??heading;
-   edits.push({start:lead.loc[1].end,end:lead.loc[1].end,value:`<p class="localized-primary-action"><a href="${config.domain==='playboxai.fun'?'https://www.playbox.com/?ref=zanderzou':'https://spicy-box.com/?utm_ref=c546b6e92223b411'}" target="_blank" rel="sponsored nofollow noopener noreferrer">${escape(calls[lang][choice])} <span aria-hidden="true">↗</span></a></p>`});
+  if(hero&&!heroPromos.length){const heading=descendants(hero).find(n=>n.name==='h1');
+   edits.push({start:heading.loc[1].end,end:heading.loc[1].end,value:`<p class="localized-primary-action"><a href="${config.domain==='playboxai.fun'?'https://www.playbox.com/?ref=zanderzou':'https://spicy-box.com/?utm_ref=c546b6e92223b411'}" target="_blank" rel="sponsored nofollow noopener noreferrer">${escape(calls[lang][choice])} <span aria-hidden="true">↗</span></a></p>`});
   }
   for(const node of nodes){if(extra.has(node)){remove(node);continue}
    if(promo(node)){

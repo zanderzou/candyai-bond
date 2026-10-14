@@ -148,3 +148,5 @@ html{background:#160d1c}body{background:#160d1c;color:var(--text)}body:before{ba
 .section-head>p{max-width:none;width:100%;margin:8px 0 0;line-height:1.5}
 @media(max-width:600px){.section{padding-top:24px!important;padding-bottom:24px!important}.section-head{margin-bottom:18px!important}.section-head h2{font-size:clamp(1.7rem,7vw,2.15rem)!important;overflow-wrap:break-word}}
 .section-head h2 span{display:inline}
+
+@media(max-width:640px){.candy-hero .hero-copy{top:-24px}}
