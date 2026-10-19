@@ -1,7 +1,7 @@
 {
   "domain": "candyai.bond",
   "timeZone": "Asia/Shanghai",
-  "policy": "New articles are English-only. Quality review is required before a date can enable a release. Existing publications are preserved.",
+  "policy": "Only reviewed English guides are added. Existing releases and translations are preserved. Server time controls availability.",
   "articles": [
     {
       "order": 1,
@@ -93,6 +93,57 @@
           "https://help.replika.com/hc/en-us/articles/360046050652-How-do-I-change-my-Replika-s-avatar"
         ]
       ]
+    },
+    {
+      "order": 4,
+      "slug": "candy-ai-monthly-tokens-not-received-date",
+      "title": "Candy AI Monthly Tokens Missing? Check the Replenishment Date",
+      "readerQuestion": "Investigate an expected monthly allocation without buying a replacement or confusing annual billing with monthly crediting.",
+      "releaseAt": "2026-10-30T23:15:36.742Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-10-19",
+      "reviewedSha256": "9e5065bed3d9e1234e3f001db94abf51ee96d92392a7969bf19f1aca551a5f99",
+      "wordCount": 476,
+      "editorialIntent": "A two-clock timeline and evidence packet, explicitly leaving month-end and time-zone edge cases to support.",
+      "sources": [
+        [
+          "Candy.ai: token replenishment date",
+          "https://everai.zendesk.com/hc/en-us/articles/55659437445657-When-will-I-receive-my-100-token-replenishment"
+        ],
+        [
+          "Candy.ai: monthly allocations and annual billing",
+          "https://everai.zendesk.com/hc/en-us/articles/44102896051481-What-can-I-do-as-a-paid-user"
+        ]
+      ]
+    },
+    {
+      "order": 5,
+      "slug": "candy-ai-remove-payment-method-only-card",
+      "title": "Can’t Remove Your Only Candy AI Payment Method? What to Check",
+      "readerQuestion": "Understand why the only saved payment method cannot be removed and choose the action matching the billing goal.",
+      "releaseAt": "2026-11-07T06:49:37.742Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-10-19",
+      "reviewedSha256": "2ac161de29d6ff69e73b2a70f11434c7d396b96ea0d1595f0ea28d462fc7d5bc",
+      "wordCount": 497,
+      "editorialIntent": "A restriction-based decision table that avoids suggesting an extra card, false billing data or card removal as cancellation.",
+      "sources": [
+        [
+          "Candy.ai: payment-method removal restriction",
+          "https://everai.zendesk.com/hc/en-us/articles/61549791594265-How-can-I-remove-my-payment-method"
+        ],
+        [
+          "Candy.ai: cancellation instructions",
+          "https://everai.zendesk.com/hc/en-us/articles/31412787067289-How-do-I-cancel-my-subscription"
+        ]
+      ]
     }
-  ]
+  ],
+  "baselinePhase": 1,
+  "articlePrefix": "/blog/",
+  "contentDirectory": "src/content/blog"
 }

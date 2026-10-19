@@ -1,0 +1,11 @@
+{
+  "domain": "candyai.bond",
+  "origin": "https://candyai.bond",
+  "slugs": [
+    "candy-ai-monthly-tokens-not-received-date",
+    "candy-ai-remove-payment-method-only-card"
+  ],
+  "articlePrefix": "/blog/",
+  "homePath": "/",
+  "blogPath": "/blog/"
+}
