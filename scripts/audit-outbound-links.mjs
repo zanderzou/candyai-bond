@@ -27,7 +27,7 @@ for (const [slug, expectedHosts] of sources) {
 
 const home = read();
 assert.match(home, /<title>Candy AI<\/title>/, "homepage title must match the exact domain keyword");
-assert.match(home, /href="https:\/\/candy\.ai\/"/, "official Candy AI destination missing");
+assert.ok(home.includes('<a href="https://www.gptgirlfriend.online/?ref=oty3mmu" rel="noopener" target="_blank">Official Candy AI '), "reviewed footer product-navigation destination missing");
 const privacy = read("privacy");
 assert.match(privacy, /href="https:\/\/policies\.google\.com\/privacy"/, "Google privacy citation missing");
 assert.match(read("contact"), /support@candyai\.bond is not configured to receive mail yet/, "mailbox status unclear");
