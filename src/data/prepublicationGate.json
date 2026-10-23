@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "domain": "candyai.bond",
+  "grandfathered": [
+    {
+      "order": 1,
+      "slug": "candy-ai-vs-nomi-media-memory-routine",
+      "releaseAt": "2026-10-08T05:01:14.153Z",
+      "status": 200,
+      "liveVerifiedAt": "2026-10-23T05:17:55.547Z",
+      "canonical": "https://candyai.bond/blog/candy-ai-vs-nomi-media-memory-routine/",
+      "language": "en",
+      "titleMatches": true,
+      "discoveryVerified": true,
+      "sourceCommit": "94097e89ba31a078506d4e7502f031d23219962e",
+      "deploymentId": "f25f9397-98fe-4df3-8ca7-0820c792fec3",
+      "responseSha256": "06761e638cd90c9fe8306ed79cbee5e6ccf3214004b5df95b3657db7f5e3f56e"
+    },
+    {
+      "order": 2,
+      "slug": "candy-ai-vs-kindroid-personality-controls",
+      "releaseAt": "2026-10-15T23:20:12.625Z",
+      "status": 200,
+      "liveVerifiedAt": "2026-10-23T05:17:55.547Z",
+      "canonical": "https://candyai.bond/blog/candy-ai-vs-kindroid-personality-controls/",
+      "language": "en",
+      "titleMatches": true,
+      "discoveryVerified": true,
+      "sourceCommit": "94097e89ba31a078506d4e7502f031d23219962e",
+      "deploymentId": "f25f9397-98fe-4df3-8ca7-0820c792fec3",
+      "responseSha256": "88f60e084b8a3dbc2d5f87e4434d7450e9384b1c7a0e183ce6bf5ad4c3d03d8b"
+    }
+  ],
+  "certificates": {}
+}
