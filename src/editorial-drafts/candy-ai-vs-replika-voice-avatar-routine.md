@@ -1,8 +1,8 @@
 ---
 title: "Candy AI vs Replika: Voice and Avatar Routine"
 description: "Compare Candy AI and Replika for a bounded voice-and-avatar routine, checking the actual audio mode, current access and optional visual spending."
-publishDate: 2026-10-23T16:41:00.742Z
-updatedDate: 2026-10-08T05:01:14.153Z
+publishDate: "2026-10-27"
+updatedDate: "2026-10-27"
 category: "Comparison"
 readTime: "3 min read"
 answer: "Candy AI and Replika describe voice-related and visual companion features, but modes and account access differ. Identify whether you need audio playback, spoken input or a call, then inspect the current offer. Choose the routine that is easy to start and stop on your device; avatar appearance does not demonstrate voice quality."
@@ -10,7 +10,7 @@ accent: "rose"
 keywords: ["Candy AI vs Replika","Replika","voice and avatar"]
 sources:
   - name: "Candy Audio and Video Availability"
-    url: "https://everai.zendesk.com/hc/en-us/articles/58794500759449-Why-are-audio-video-features-unavailable"
+    url: "https://candy.ai/subscriptions"
   - name: "Replika Pro Features"
     url: "https://help.replika.com/hc/en-us/articles/360032500052-What-is-Replika-Pro"
   - name: "Replika Avatar Customization"
@@ -19,13 +19,13 @@ sources:
 
 Candy AI vs Replika is useful when your preferred companion routine includes voice and a visual character. First decide what the session should look like in practice. A ten-minute audio exchange with an adult fictional character is a different requirement from styling an avatar or requesting a new image.
 
-Official access and customization sources were checked on October 8, 2026. This article reports no listening test, call latency measurement or generated-image comparison. It uses ordinary non-explicit conversation.
+Official access and customization sources were checked on October 27, 2026. This article reports no listening test, call latency measurement or generated-image comparison. It uses ordinary non-explicit conversation.
 
 ## Name the audio interaction you need
 
 Audio playback lets you listen. Microphone input lets you speak a message. A call can involve a more continuous exchange. Provider descriptions may mention several modes, but availability needs checking in the actual account, character and device.
 
-Replika's Pro guidance describes voice-related features, while its avatar guide addresses a separate customization workflow. Candy's help center describes reasons media features may be unavailable. Do not buy an offer merely because a general feature page uses the word “voice.”
+Replika's Pro guidance describes voice-related features, while its avatar guide addresses a separate customization workflow. Candy’s current subscription page describes its offer; check which audio controls and separate paid resources apply in your account. Do not buy an offer merely because a general feature page uses the word “voice.”
 
 | Requirement | Check before committing |
 |---|---|

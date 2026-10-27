@@ -75,9 +75,9 @@
       "language": "en",
       "approved": true,
       "status": "editorially-reviewed",
-      "sourcesCheckedAt": "2026-10-08",
-      "reviewedSha256": "f01eb40c7ee01a8e8a5405aa8c574474b6e08e8b34bf6a9149762dcf12fc093a",
-      "wordCount": 498,
+      "sourcesCheckedAt": "2026-10-27",
+      "reviewedSha256": "3e2a11a923d31dfa190b48f797d09b4224421f3c23e1e8ee700967a83ebd99e8",
+      "wordCount": 509,
       "editorialIntent": "Evaluate a short voice routine and its visual preferences as separate requirements.",
       "sources": [
         [
@@ -116,7 +116,9 @@
           "Candy.ai: monthly allocations and annual billing",
           "https://everai.zendesk.com/hc/en-us/articles/44102896051481-What-can-I-do-as-a-paid-user"
         ]
-      ]
+      ],
+      "notBefore": "2026-11-03T04:37:10.772Z",
+      "scheduleNote": "Effective earliest opportunity after delayed previous release; retain original releaseAt and require basic editorial approval."
     },
     {
       "order": 5,
@@ -140,7 +142,9 @@
           "Candy.ai: cancellation instructions",
           "https://everai.zendesk.com/hc/en-us/articles/31412787067289-How-do-I-cancel-my-subscription"
         ]
-      ]
+      ],
+      "notBefore": "2026-11-10T04:37:10.772Z",
+      "scheduleNote": "Effective earliest opportunity after delayed previous release; retain original releaseAt and require basic editorial approval."
     }
   ],
   "baselinePhase": 1,

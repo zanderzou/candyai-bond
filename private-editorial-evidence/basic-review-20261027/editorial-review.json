@@ -1,0 +1,21 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-ai-vs-replika-voice-avatar-routine",
+  "reviewedAt": "2026-10-27T04:37:10.772Z",
+  "standard": "portfolio-basic-quality-20261027",
+  "materialRevision": false,
+  "sources": [
+    "https://candy.ai/subscriptions",
+    "https://help.replika.com/hc/en-us/articles/360032500052-What-is-Replika-Pro",
+    "https://help.replika.com/hc/en-us/articles/360046050652-How-do-I-change-my-Replika-s-avatar"
+  ],
+  "quality": {
+    "readable": true,
+    "useful": true,
+    "factual": true,
+    "experienceClaims": "none",
+    "note": "Reviewed original final article and primary source scope; correct material outdated claims, preserve honest limits, no fabricated product experience."
+  },
+  "contentSha256": "3e2a11a923d31dfa190b48f797d09b4224421f3c23e1e8ee700967a83ebd99e8",
+  "limits": "Informational guide and suggested fictional exercises; no product-account, transaction, backend or generation test claimed."
+}

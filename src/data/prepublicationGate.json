@@ -31,5 +31,71 @@
       "responseSha256": "88f60e084b8a3dbc2d5f87e4434d7450e9384b1c7a0e183ce6bf5ad4c3d03d8b"
     }
   ],
-  "certificates": {}
+  "certificates": {
+    "candy-ai-vs-replika-voice-avatar-routine": {
+      "schemaVersion": 1,
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "domain": "candyai.bond",
+      "slug": "candy-ai-vs-replika-voice-avatar-routine",
+      "order": 3,
+      "releaseAt": "2026-10-23T16:41:00.742Z",
+      "activationAt": "2026-10-27T04:37:10.772Z",
+      "reviewedAt": "2026-10-27T04:37:10.772Z",
+      "factsCheckedAt": "2026-10-27T04:37:10.772Z",
+      "reviewedBy": "Codex editorial review following the October27 human project override",
+      "contentSha256": "3e2a11a923d31dfa190b48f797d09b4224421f3c23e1e8ee700967a83ebd99e8",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Reviewed original final article and primary source scope; correct material outdated claims, preserve honest limits, no fabricated product experience."
+      },
+      "observations": [],
+      "officialSources": [
+        {
+          "url": "https://candy.ai/subscriptions",
+          "checkedAt": "2026-10-27T04:37:10.772Z",
+          "status": "content-retrieved",
+          "claim": "Relevant current published feature/policy wording reviewed; no account behavior or product testing implied.",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/basic-review-20261027/source-5068992c6d07b7fc.json",
+              "sha256": "6e9e531d918dd1cbe7eff6cead1d7328b90fadae6b7f7a2d9d12eee252975509"
+            }
+          ]
+        },
+        {
+          "url": "https://help.replika.com/hc/en-us/articles/360032500052-What-is-Replika-Pro",
+          "checkedAt": "2026-10-27T04:37:10.772Z",
+          "status": "content-retrieved",
+          "claim": "Relevant current published feature/policy wording reviewed; no account behavior or product testing implied.",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/basic-review-20261027/source-cd56a599723dc1d9.json",
+              "sha256": "8fea541f5f4219733084e004d89f7557a484bd4634849c57c8ab314c9b3bf8eb"
+            }
+          ]
+        },
+        {
+          "url": "https://help.replika.com/hc/en-us/articles/360046050652-How-do-I-change-my-Replika-s-avatar",
+          "checkedAt": "2026-10-27T04:37:10.772Z",
+          "status": "content-retrieved",
+          "claim": "Relevant current published feature/policy wording reviewed; no account behavior or product testing implied.",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/basic-review-20261027/source-8c361a5c4ca31960.json",
+              "sha256": "b2c8fd63e97ee735a83358da625ef88edacc94f7ea9f22652a52e2cc2615d53b"
+            }
+          ]
+        }
+      ],
+      "certificateDigest": "54d0ccc5152e0c8129118761f62165b2835068ca01fc16c7c44729e57aedd529"
+    }
+  }
 }
