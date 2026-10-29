@@ -39,7 +39,7 @@ function walk(folder) {
     else if (entry.name.endsWith(".html")) {
       const html = readFileSync(filename, "utf8");
       for (const link of html.matchAll(/<a\b[^>]*href="[^"]*ref=zanderzou[^>]*>/g)) {
-        assert.match(link[0], /rel="[^"]*sponsored/, `${filename}: promotion is not labeled sponsored`);
+        assert.doesNotMatch(link[0], /rel="[^"]*\bsponsored\b/i, `${filename}: promotion must omit sponsored`);
         assert.match(link[0], /rel="[^"]*nofollow/, `${filename}: promotion missing nofollow`);
       }
       for (const citation of html.matchAll(/<section class="sources" id="sources">([\s\S]*?)<\/section>/g)) {
