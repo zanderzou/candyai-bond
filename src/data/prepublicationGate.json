@@ -96,6 +96,59 @@
         }
       ],
       "certificateDigest": "54d0ccc5152e0c8129118761f62165b2835068ca01fc16c7c44729e57aedd529"
+    },
+    "candy-ai-monthly-tokens-not-received-date": {
+      "schemaVersion": 1,
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "domain": "candyai.bond",
+      "slug": "candy-ai-monthly-tokens-not-received-date",
+      "order": 4,
+      "releaseAt": "2026-10-30T23:15:36.742Z",
+      "activationAt": "2026-11-03T04:37:10.772Z",
+      "reviewedAt": "2026-10-31T05:19:59.883Z",
+      "factsCheckedAt": "2026-10-31T05:19:05.519Z",
+      "reviewedBy": "Codex article and current primary-source review under October27 human standard",
+      "contentSha256": "dc0b44cebffff24a6a56403547d7cb3ce46d0054a8dbfd023dcc95caeaeb9abd",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Current official Candy help replenishment page and paid-user help were searched/opened and read. Monthly anniversary applies to monthly allocations including yearly subscriptions; the draft explicitly avoids exact hours, time-zone or short-month assumptions and distinguishes credit events from remaining balance. No paid account inspection claimed."
+      },
+      "observations": [],
+      "officialSources": [
+        {
+          "url": "https://everai.zendesk.com/hc/en-us/articles/55659437445657-When-will-I-receive-my-100-token-replenishment",
+          "checkedAt": "2026-10-31T05:19:05.519Z",
+          "status": "content-retrieved",
+          "claim": "Current official Candy help replenishment page and paid-user help were searched/opened and read. Monthly anniversary applies to monthly allocations including yearly subscriptions; the draft explicitly avoids exact hours, time-zone or short-month assumptions and distinguishes credit events from remaining balance. No paid account inspection claimed.",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/basic-review-20261031-051246/editorial-review.json",
+              "sha256": "b56cab9d5c4115fcb8cf87a8c531895f40ef629bb63da0239a885f3a48332ffb"
+            }
+          ]
+        },
+        {
+          "url": "https://everai.zendesk.com/hc/en-us/articles/44102896051481-What-can-I-do-as-a-paid-user",
+          "checkedAt": "2026-10-31T05:19:05.519Z",
+          "status": "content-retrieved",
+          "claim": "Current official Candy help replenishment page and paid-user help were searched/opened and read. Monthly anniversary applies to monthly allocations including yearly subscriptions; the draft explicitly avoids exact hours, time-zone or short-month assumptions and distinguishes credit events from remaining balance. No paid account inspection claimed.",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/basic-review-20261031-051246/editorial-review.json",
+              "sha256": "b56cab9d5c4115fcb8cf87a8c531895f40ef629bb63da0239a885f3a48332ffb"
+            }
+          ]
+        }
+      ],
+      "certificateDigest": "1d5b2e654b17a95b9e1f5ca600899bc5b8758709014fb02b0d38a521573c4181"
     }
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: "Candy AI Monthly Tokens Missing? Check the Replenishment Date"
 description: "Distinguish Candy.ai’s monthly token allocation from annual billing, identify the relevant account date and prepare a missing-credit report."
-publishDate: "2026-10-30"
+publishDate: "2026-11-03"
 updatedDate: "2026-10-19"
 category: "Practical guide"
 readTime: "3 min read"

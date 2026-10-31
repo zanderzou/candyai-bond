@@ -1,0 +1,73 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-ai-monthly-tokens-not-received-date",
+  "reviewedAt": "2026-10-31T05:19:05.519Z",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "skill": {
+    "name": "write-tested-seo",
+    "version": "1.5",
+    "projectOverride": "October27 basic useful truthful sourced guide"
+  },
+  "sourceCommit": "40307491a2c12d4bff3146ddcd4feea7b7eb9dfe",
+  "production": {
+    "id": "23d71b5f-87a3-4763-8b72-f500e02f9965",
+    "url": "https://23d71b5f.candyai-bond.pages.dev",
+    "commit": "40307491a2c12d4bff3146ddcd4feea7b7eb9dfe",
+    "sourceShaRaw": "40307491a2c12d4bff3146ddcd4feea7b7eb9dfe",
+    "createdAt": "2026-10-29T13:12:47.98563Z"
+  },
+  "contentSha256": "9e5065bed3d9e1234e3f001db94abf51ee96d92392a7969bf19f1aca551a5f99",
+  "terminalLfPreserved": true,
+  "sources": [
+    {
+      "url": "https://everai.zendesk.com/hc/en-us/articles/55659437445657-When-will-I-receive-my-100-token-replenishment",
+      "checkedAt": "2026-10-31T05:19:05.519Z",
+      "status": "content-retrieved",
+      "retrieval": "Actual official source searched/opened/read this heartbeat; direct HTTP recorded separately.",
+      "directHttpStatus": 403,
+      "directResponseSha256": "9994591c5cdf42d13fbc322140c8661a4a3ff810e80b70f4bd4c02719eddc85f",
+      "claimSummary": "Current official Candy help replenishment page and paid-user help were searched/opened and read. Monthly anniversary applies to monthly allocations including yearly subscriptions; the draft explicitly avoids exact hours, time-zone or short-month assumptions and distinguishes credit events from remaining balance. No paid account inspection claimed."
+    },
+    {
+      "url": "https://everai.zendesk.com/hc/en-us/articles/44102896051481-What-can-I-do-as-a-paid-user",
+      "checkedAt": "2026-10-31T05:19:05.519Z",
+      "status": "content-retrieved",
+      "retrieval": "Actual official source searched/opened/read this heartbeat; direct HTTP recorded separately.",
+      "directHttpStatus": 403,
+      "directResponseSha256": "3f13932d4db4158b55235829544638ff8ad54ce05ecfb432851b40c5c9062a37",
+      "claimSummary": "Current official Candy help replenishment page and paid-user help were searched/opened and read. Monthly anniversary applies to monthly allocations including yearly subscriptions; the draft explicitly avoids exact hours, time-zone or short-month assumptions and distinguishes credit events from remaining balance. No paid account inspection claimed."
+    }
+  ],
+  "editorialReview": {
+    "readable": true,
+    "useful": true,
+    "factual": true,
+    "experienceClaims": "none",
+    "assessment": "Current official Candy help replenishment page and paid-user help were searched/opened and read. Monthly anniversary applies to monthly allocations including yearly subscriptions; the draft explicitly avoids exact hours, time-zone or short-month assumptions and distinguishes credit events from remaining balance. No paid account inspection claimed."
+  },
+  "materialChangeFound": false,
+  "requiredContentChanges": [],
+  "recommendedEditorialDecision": "eligible-for-basic-editorial-approval-with-listed-corrections",
+  "limitations": [
+    "Source research only. No login, purchase, deletion, chat, report submission or payment/account changes performed."
+  ],
+  "currentMainBindingVerified": {
+    "passed": true,
+    "main": "40307491a2c12d4bff3146ddcd4feea7b7eb9dfe",
+    "production": {
+      "id": "23d71b5f-87a3-4763-8b72-f500e02f9965",
+      "url": "https://23d71b5f.candyai-bond.pages.dev",
+      "commit": "40307491a2c12d4bff3146ddcd4feea7b7eb9dfe",
+      "sourceShaRaw": "40307491a2c12d4bff3146ddcd4feea7b7eb9dfe",
+      "createdAt": "2026-10-29T13:12:47.98563Z"
+    }
+  },
+  "finalContentSha256": "dc0b44cebffff24a6a56403547d7cb3ce46d0054a8dbfd023dcc95caeaeb9abd",
+  "originalContentSha256": "9e5065bed3d9e1234e3f001db94abf51ee96d92392a7969bf19f1aca551a5f99",
+  "finalMetadataReview": {
+    "publishDate": "2026-11-03",
+    "originalPublishDate": "2026-10-30",
+    "reason": "Actual effective activation date; original planned releaseAt retained",
+    "updatedDateChangedOnlyForBodyCorrection": false
+  }
+}

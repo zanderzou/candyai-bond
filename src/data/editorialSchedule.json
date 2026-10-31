@@ -103,8 +103,8 @@
       "language": "en",
       "approved": true,
       "status": "editorially-reviewed",
-      "sourcesCheckedAt": "2026-10-19",
-      "reviewedSha256": "9e5065bed3d9e1234e3f001db94abf51ee96d92392a7969bf19f1aca551a5f99",
+      "sourcesCheckedAt": "2026-10-31",
+      "reviewedSha256": "dc0b44cebffff24a6a56403547d7cb3ce46d0054a8dbfd023dcc95caeaeb9abd",
       "wordCount": 476,
       "editorialIntent": "A two-clock timeline and evidence packet, explicitly leaving month-end and time-zone edge cases to support.",
       "sources": [
