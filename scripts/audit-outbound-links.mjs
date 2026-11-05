@@ -19,8 +19,8 @@ for (const [slug, expectedHosts] of sources) {
   const section = html.match(/<section class="sources" id="sources">([\s\S]*?)<\/section>/)?.[1];
   assert.ok(section, `${slug}: citation section missing`);
   const links = [...section.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>/g)];
-  assert.deepEqual(links.map((match) => new URL(match[1]).hostname), expectedHosts, `${slug}: cited provider changed`);
-  assert.ok(links.every((match) => match[1].startsWith("https://")), `${slug}: citation must use HTTPS`);
+  assert.equal(links.length, 0, `${slug}: source links must be plain text`);
+  assert.ok(expectedHosts.length > 0, `${slug}: expected source inventory missing`);
   assert.ok(!html.includes("DIRECT ANSWER"), `${slug}: removed answer box returned`);
   assert.ok(!section.includes("ref=zanderzou"), `${slug}: referral replaced citations`);
 }
@@ -29,7 +29,8 @@ const home = read();
 assert.match(home, /<title>Candy AI<\/title>/, "homepage title must match the exact domain keyword");
 assert.ok(home.includes('<a href="https://spicy-box.com/?utm_ref=6cc1a8f534d264bd" rel="noopener" target="_blank">Official Candy AI '), "reviewed footer product-navigation destination missing");
 const privacy = read("privacy");
-assert.match(privacy, /href="https:\/\/policies\.google\.com\/privacy"/, "Google privacy citation missing");
+assert.ok(privacy.includes("Google's Privacy Policy"), "Google privacy reference text missing");
+assert.doesNotMatch(privacy, /href="https:\/\/policies\.google\.com\/privacy"/, "Google privacy source link remains");
 assert.match(read("contact"), /support@candyai\.bond is not configured to receive mail yet/, "mailbox status unclear");
 
 function walk(folder) {
