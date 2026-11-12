@@ -129,8 +129,8 @@
       "language": "en",
       "approved": true,
       "status": "editorially-reviewed",
-      "sourcesCheckedAt": "2026-10-19",
-      "reviewedSha256": "2ac161de29d6ff69e73b2a70f11434c7d396b96ea0d1595f0ea28d462fc7d5bc",
+      "sourcesCheckedAt": "2026-11-12",
+      "reviewedSha256": "526b7eee5b32574c74d3ce4ff158febb566ed5e0ea70e0f42d337daedef01f39",
       "wordCount": 497,
       "editorialIntent": "A restriction-based decision table that avoids suggesting an extra card, false billing data or card removal as cancellation.",
       "sources": [

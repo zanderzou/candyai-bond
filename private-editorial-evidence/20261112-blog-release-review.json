@@ -1,0 +1,81 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-ai-remove-payment-method-only-card",
+  "sourceCommit": "f63a46dd7e26b842a80649be62815e759ed8ad5e",
+  "originalContentSha256": "2ac161de29d6ff69e73b2a70f11434c7d396b96ea0d1595f0ea28d462fc7d5bc",
+  "finalContentSha256": "526b7eee5b32574c74d3ce4ff158febb566ed5e0ea70e0f42d337daedef01f39",
+  "reviewedAt": "2026-11-12T15:58:49.768Z",
+  "editorialNote": "Clear practical English guide. Important claims checked against official documents. Illustrations are hypothetical or documentary, without invented account or product testing.",
+  "officialSources": [
+    {
+      "url": "https://everai.zendesk.com/hc/en-us/articles/61549791594265-How-can-I-remove-my-payment-method",
+      "claim": "The help center says an active subscription must retain one payment method. It describes the removal control for additional cards.",
+      "checkedAt": "2026-11-12T15:58:47.9434455Z"
+    },
+    {
+      "url": "https://everai.zendesk.com/hc/en-us/articles/31412787067289-How-do-I-cancel-my-subscription",
+      "claim": "The documented route is My Profile, Settings, subscription details, Unsubscribe and confirmation prompts.",
+      "checkedAt": "2026-11-07T04:40:06.000Z"
+    }
+  ],
+  "earlierArticleReview": {
+    "domain": "candyai.bond",
+    "slug": "candy-ai-remove-payment-method-only-card",
+    "title": "Can’t Remove Your Only Candy AI Payment Method? What to Check",
+    "reviewedAt": "2026-11-07T04:40:06.000Z",
+    "selection": {
+      "actual72hEntryAt": "2026-11-07T04:37:10.772Z",
+      "effectiveAt": "2026-11-10T04:37:10.772Z",
+      "originalPlannedReleaseAt": "2026-11-07T06:49:37.742Z",
+      "triggerCutoffAt": "2026-11-10T04:34:40.000Z",
+      "selectedAfterTrigger": true
+    },
+    "source": {
+      "queue": "research/prepublish-tested-seo-20261023/runs/2026-11-07T043440Z/source-only-queue.json",
+      "sourceCommit": "f63a46dd7e26b842a80649be62815e759ed8ad5e",
+      "workspace": "C:\\Users\\zande\\Documents\\ChatGPT\\Bing NSFW SEO\\deployment-staging\\gate-byte-repair-20261105-155653\\candyai.bond",
+      "path": "src/editorial-drafts/candy-ai-remove-payment-method-only-card.md",
+      "rawSha256": "2ac161de29d6ff69e73b2a70f11434c7d396b96ea0d1595f0ea28d462fc7d5bc",
+      "canonicalLfSha256": "2ac161de29d6ff69e73b2a70f11434c7d396b96ea0d1595f0ea28d462fc7d5bc",
+      "exactGitBlobRead": true
+    },
+    "targetInstructions": {
+      "path": "AGENTS.md",
+      "presentInExactCommit": true,
+      "alsoCheckedPhysicalWorkspace": true,
+      "sha256": "74519e7d6712424bebd1491c1def7a797c6725f378bfbf00e633ced443b7f2de"
+    },
+    "readerQuestion": "Understand why the only saved payment method cannot be removed and choose the action matching the billing goal.",
+    "basicQuality": {
+      "clearQuestion": true,
+      "readableEnglish": true,
+      "concreteGuidance": true,
+      "honestLimits": true,
+      "inventedExperienceDetected": false,
+      "handsOnRequiredByCurrentProjectPolicy": false
+    },
+    "officialSourceIds": [
+      "candy-remove-card",
+      "candy-cancel"
+    ],
+    "necessaryCorrections": [],
+    "preparationStatus": "basic-quality-and-key-claims-supported-for-later-editorial-decision",
+    "readiness": {
+      "editorialApprovalIssued": false,
+      "releaseReady": false,
+      "commonBlockers": [
+        "Current Cloudflare canonical deployment/source identity cannot be verified while the existing official session is unavailable.",
+        "Actual release and final metadata dates must follow the effective release, with the original plan retained as history."
+      ],
+      "contentGap": null
+    },
+    "reviewSummary": "The active-subscription one-method restriction, account area and distinction among extra-card removal, renewal cancellation and charge questions are supported. No promised unlock time after cancellation appears. No necessary factual correction identified."
+  },
+  "correctedBeforeRelease": false,
+  "priorProduction": {
+    "deploymentId": "e5161c37-88dc-4505-a88e-2765e8071ea5",
+    "sourceCommit": "f63a46dd7e26b842a80649be62815e759ed8ad5e",
+    "phase": 4
+  },
+  "intendedActivationAt": "2026-11-12T16:17:12.000Z"
+}

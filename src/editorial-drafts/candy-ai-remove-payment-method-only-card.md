@@ -1,8 +1,8 @@
 ---
 title: "Can’t Remove Your Only Candy AI Payment Method? What to Check"
 description: "Understand the documented active-subscription restriction, distinguish removing a saved card from cancellation, and prepare a precise support request."
-publishDate: "2026-11-07"
-updatedDate: "2026-10-19"
+publishDate: "2026-11-12"
+updatedDate: "2026-11-12"
 category: "Practical guide"
 readTime: "3 min read"
 accent: "violet"

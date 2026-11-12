@@ -149,6 +149,59 @@
         }
       ],
       "certificateDigest": "1d5b2e654b17a95b9e1f5ca600899bc5b8758709014fb02b0d38a521573c4181"
+    },
+    "candy-ai-remove-payment-method-only-card": {
+      "schemaVersion": 1,
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "domain": "candyai.bond",
+      "slug": "candy-ai-remove-payment-method-only-card",
+      "order": 5,
+      "releaseAt": "2026-11-07T06:49:37.742Z",
+      "activationAt": "2026-11-12T16:17:12.000Z",
+      "reviewedAt": "2026-11-12T15:58:49.768Z",
+      "factsCheckedAt": "2026-11-12T15:58:47.9434455Z",
+      "reviewedBy": "Codex editorial review",
+      "contentSha256": "526b7eee5b32574c74d3ce4ff158febb566ed5e0ea70e0f42d337daedef01f39",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Clear practical English guide. Important claims checked against official documents. Illustrations are hypothetical or documentary, without invented account or product testing."
+      },
+      "observations": [],
+      "officialSources": [
+        {
+          "url": "https://everai.zendesk.com/hc/en-us/articles/61549791594265-How-can-I-remove-my-payment-method",
+          "claim": "The help center says an active subscription must retain one payment method. It describes the removal control for additional cards.",
+          "checkedAt": "2026-11-12T15:58:47.9434455Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261112-blog-release-review.json",
+              "sha256": "76f16d90b288e184f4a37fe39e58201c104b9fe1c84c9d79c0f1756c385903c8"
+            }
+          ]
+        },
+        {
+          "url": "https://everai.zendesk.com/hc/en-us/articles/31412787067289-How-do-I-cancel-my-subscription",
+          "claim": "The documented route is My Profile, Settings, subscription details, Unsubscribe and confirmation prompts.",
+          "checkedAt": "2026-11-07T04:40:06.000Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261112-blog-release-review.json",
+              "sha256": "76f16d90b288e184f4a37fe39e58201c104b9fe1c84c9d79c0f1756c385903c8"
+            }
+          ]
+        }
+      ],
+      "certificateDigest": "5fc23c4e69139bdfc07a5c3a8ff51ac9cd7e960d0a75bb242aafac6d9c20d2f1"
     }
   }
 }
