@@ -1,0 +1,38 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-build-your-video-preset-shot",
+  "order": 7,
+  "reviewedAt": "2026-11-16T11:14:23.844Z",
+  "factsCheckedAt": "2026-11-16T11:14:06Z",
+  "contentSha256": "da5712d855215626a382a04c87c0e4b46e5ffb5fb6ee14256d3b7db0d08379cc",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-11-26T16:17:12.000Z",
+  "readerQuestion": "How do I prepare a shot for Candy.ai's Build Your Video workflow?",
+  "applicableClaims": [
+    {
+      "name": "Candy.ai Build Your Video",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64285000268057-What-is-Build-Your-Video",
+      "note": "Identifies Character, Action, Location and Partner presets, with output and preset limitations."
+    },
+    {
+      "name": "Candy Studio help",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64285116131353-What-is-Candy-Studio",
+      "note": "Describes the home banner, studio features and possible routing to subscription selection when access is absent."
+    }
+  ],
+  "exampleType": "Original illustrative workflow",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-16-weekly-refill/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-build-your-video-preset-shot.png",
+    "sha256": "d12f9f57405784b577b170233cbef434602a1c521870225842ebfe246cacd215",
+    "type": "Original editorial diagram",
+    "alt": "Select the adult fictional role. Choose one visible action. Give the action a location."
+  },
+  "editorialReview": {
+    "readerAction": "Map a simple fictional shot to character, action, location and a partner only where the scene needs one.",
+    "wordCount": 161,
+    "factBasis": "Primary sources and an explicitly fictional example. No product operation is claimed.",
+    "sourceLinksKeptInPrivateEvidence": true,
+    "productionReview": "The compiled Worker, all release boundaries and formal site are checked separately."
+  }
+}

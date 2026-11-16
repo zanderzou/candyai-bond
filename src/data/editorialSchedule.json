@@ -145,6 +145,81 @@
       ],
       "notBefore": "2026-11-10T04:37:10.772Z",
       "scheduleNote": "Effective earliest opportunity after delayed previous release; retain original releaseAt and require basic editorial approval."
+    },
+    {
+      "order": 6,
+      "slug": "candy-studio-banner-opens-subscriptions",
+      "title": "Why Candy Studio Might Open the Subscription Page",
+      "readerQuestion": "What does a Candy Studio banner redirect mean for my account?",
+      "releaseAt": "2026-11-19T16:17:12.000Z",
+      "notBefore": "2026-11-19T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-16",
+      "reviewedSha256": "78154d74c9126fa5a66050ff841af0341e7d3359b1eeca78648d87993629dabc",
+      "wordCount": 162,
+      "editorialIntent": "Identify what the banner redirected to and confirm which media action the visible plan includes.",
+      "sources": [
+        [
+          "Candy Studio help",
+          "https://everai.zendesk.com/hc/en-us/articles/64285116131353-What-is-Candy-Studio"
+        ],
+        [
+          "Candy.ai terms of service",
+          "https://candy.ai/terms-of-service"
+        ]
+      ]
+    },
+    {
+      "order": 7,
+      "slug": "candy-build-your-video-preset-shot",
+      "title": "Plan One Scene With Candy.ai Build Your Video Presets",
+      "readerQuestion": "How do I prepare a shot for Candy.ai's Build Your Video workflow?",
+      "releaseAt": "2026-11-26T16:17:12.000Z",
+      "notBefore": "2026-11-26T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-16",
+      "reviewedSha256": "da5712d855215626a382a04c87c0e4b46e5ffb5fb6ee14256d3b7db0d08379cc",
+      "wordCount": 161,
+      "editorialIntent": "Map a simple fictional shot to character, action, location and a partner only where the scene needs one.",
+      "sources": [
+        [
+          "Candy.ai Build Your Video",
+          "https://everai.zendesk.com/hc/en-us/articles/64285000268057-What-is-Build-Your-Video"
+        ],
+        [
+          "Candy Studio help",
+          "https://everai.zendesk.com/hc/en-us/articles/64285116131353-What-is-Candy-Studio"
+        ]
+      ]
+    },
+    {
+      "order": 8,
+      "slug": "candy-collection-remove-one-generated-media-item",
+      "title": "Remove One Candy.ai Image or Video From Collection",
+      "readerQuestion": "Where do I find the control to remove one generated Candy.ai image or video?",
+      "releaseAt": "2026-12-03T16:17:12.000Z",
+      "notBefore": "2026-12-03T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-16",
+      "reviewedSha256": "3453d37f1d7d1ae88a715bf2ebf8fef2c1d1d6ea18f75fce5c746e8aceacb786",
+      "wordCount": 159,
+      "editorialIntent": "Find the exact item in the correct character album and check what remains visible after deletion.",
+      "sources": [
+        [
+          "Candy.ai generated media deletion",
+          "https://everai.zendesk.com/hc/en-us/articles/64284254089497-How-can-I-delete-images-and-videos-I-generated"
+        ],
+        [
+          "Candy.ai privacy notice",
+          "https://candy.ai/privacy-policy"
+        ]
+      ]
     }
   ],
   "baselinePhase": 1,

@@ -1,0 +1,38 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-studio-banner-opens-subscriptions",
+  "order": 6,
+  "reviewedAt": "2026-11-16T11:14:23.844Z",
+  "factsCheckedAt": "2026-11-16T11:14:06Z",
+  "contentSha256": "78154d74c9126fa5a66050ff841af0341e7d3359b1eeca78648d87993629dabc",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-11-19T16:17:12.000Z",
+  "readerQuestion": "What does a Candy Studio banner redirect mean for my account?",
+  "applicableClaims": [
+    {
+      "name": "Candy Studio help",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64285116131353-What-is-Candy-Studio",
+      "note": "Describes the home banner, studio features and possible routing to subscription selection when access is absent."
+    },
+    {
+      "name": "Candy.ai terms of service",
+      "url": "https://candy.ai/terms-of-service",
+      "note": "States the operator's purchase and service terms. Guide defers current cost and plan access to actual checkout."
+    }
+  ],
+  "exampleType": "Original illustrative workflow",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-16-weekly-refill/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-studio-banner-opens-subscriptions.png",
+    "sha256": "7ca0c69e623a596f2677f6fbe42ebee6f6a005def9b2d78ef5488ca84dbcbd75",
+    "type": "Original editorial diagram",
+    "alt": "Open the official studio entry. Identify studio or checkout. Check the intended action."
+  },
+  "editorialReview": {
+    "readerAction": "Identify what the banner redirected to and confirm which media action the visible plan includes.",
+    "wordCount": 162,
+    "factBasis": "Primary sources and an explicitly fictional example. No product operation is claimed.",
+    "sourceLinksKeptInPrivateEvidence": true,
+    "productionReview": "The compiled Worker, all release boundaries and formal site are checked separately."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-collection-remove-one-generated-media-item",
+  "order": 8,
+  "reviewedAt": "2026-11-16T11:14:23.844Z",
+  "factsCheckedAt": "2026-11-16T11:14:06Z",
+  "contentSha256": "3453d37f1d7d1ae88a715bf2ebf8fef2c1d1d6ea18f75fce5c746e8aceacb786",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-12-03T16:17:12.000Z",
+  "readerQuestion": "Where do I find the control to remove one generated Candy.ai image or video?",
+  "applicableClaims": [
+    {
+      "name": "Candy.ai generated media deletion",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64284254089497-How-can-I-delete-images-and-videos-I-generated",
+      "note": "Documents single-item deletion via Collection and the character album."
+    },
+    {
+      "name": "Candy.ai privacy notice",
+      "url": "https://candy.ai/privacy-policy",
+      "note": "Identifies the operator and its handling of account and service data."
+    }
+  ],
+  "exampleType": "Original illustrative workflow",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-16-weekly-refill/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-collection-remove-one-generated-media-item.png",
+    "sha256": "5c3d4fc006948702a31c677df40c731cf3808342b4abe4eafc40fde643950180",
+    "type": "Original editorial diagram",
+    "alt": "Open the correct character album. Open the exact media item. Recheck the album after removal."
+  },
+  "editorialReview": {
+    "readerAction": "Find the exact item in the correct character album and check what remains visible after deletion.",
+    "wordCount": 159,
+    "factBasis": "Primary sources and an explicitly fictional example. No product operation is claimed.",
+    "sourceLinksKeptInPrivateEvidence": true,
+    "productionReview": "The compiled Worker, all release boundaries and formal site are checked separately."
+  }
+}

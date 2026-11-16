@@ -202,6 +202,168 @@
         }
       ],
       "certificateDigest": "5fc23c4e69139bdfc07a5c3a8ff51ac9cd7e960d0a75bb242aafac6d9c20d2f1"
+    },
+    "candy-studio-banner-opens-subscriptions": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-studio-banner-opens-subscriptions",
+      "order": 6,
+      "releaseAt": "2026-11-19T16:17:12.000Z",
+      "activationAt": "2026-11-19T16:17:12.000Z",
+      "contentSha256": "78154d74c9126fa5a66050ff841af0341e7d3359b1eeca78648d87993629dabc",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-16T11:14:23.844Z",
+      "factsCheckedAt": "2026-11-16T11:14:06Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Primary sources and an explicitly fictional example. No product operation is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy Studio help",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64285116131353-What-is-Candy-Studio",
+          "note": "Describes the home banner, studio features and possible routing to subscription selection when access is absent.",
+          "checkedAt": "2026-11-16T11:14:06Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261116-weekly-refill/candy-studio-banner-opens-subscriptions.json",
+              "sha256": "0e4163c8589a92679ff3b3cfaca28d0638e10cd848ca4b718e7bf2f340ba6ed5"
+            }
+          ]
+        },
+        {
+          "name": "Candy.ai terms of service",
+          "url": "https://candy.ai/terms-of-service",
+          "note": "States the operator's purchase and service terms. Guide defers current cost and plan access to actual checkout.",
+          "checkedAt": "2026-11-16T11:14:06Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261116-weekly-refill/candy-studio-banner-opens-subscriptions.json",
+              "sha256": "0e4163c8589a92679ff3b3cfaca28d0638e10cd848ca4b718e7bf2f340ba6ed5"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "3b2df807dc278f4ae1e6827b9716356d8f4aa43cdd3f9f9af208c4fb38397348"
+    },
+    "candy-build-your-video-preset-shot": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-build-your-video-preset-shot",
+      "order": 7,
+      "releaseAt": "2026-11-26T16:17:12.000Z",
+      "activationAt": "2026-11-26T16:17:12.000Z",
+      "contentSha256": "da5712d855215626a382a04c87c0e4b46e5ffb5fb6ee14256d3b7db0d08379cc",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-16T11:14:23.844Z",
+      "factsCheckedAt": "2026-11-16T11:14:06Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Primary sources and an explicitly fictional example. No product operation is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy.ai Build Your Video",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64285000268057-What-is-Build-Your-Video",
+          "note": "Identifies Character, Action, Location and Partner presets, with output and preset limitations.",
+          "checkedAt": "2026-11-16T11:14:06Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261116-weekly-refill/candy-build-your-video-preset-shot.json",
+              "sha256": "db8b56a2cd895adf16415db1ec36006d1367876a99a4ce903f045099ec71b9fa"
+            }
+          ]
+        },
+        {
+          "name": "Candy Studio help",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64285116131353-What-is-Candy-Studio",
+          "note": "Describes the home banner, studio features and possible routing to subscription selection when access is absent.",
+          "checkedAt": "2026-11-16T11:14:06Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261116-weekly-refill/candy-build-your-video-preset-shot.json",
+              "sha256": "db8b56a2cd895adf16415db1ec36006d1367876a99a4ce903f045099ec71b9fa"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "d43895d2205846038d587e1ce8cded27f72ac75dac8cbf2ba527d03db29be5fc"
+    },
+    "candy-collection-remove-one-generated-media-item": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-collection-remove-one-generated-media-item",
+      "order": 8,
+      "releaseAt": "2026-12-03T16:17:12.000Z",
+      "activationAt": "2026-12-03T16:17:12.000Z",
+      "contentSha256": "3453d37f1d7d1ae88a715bf2ebf8fef2c1d1d6ea18f75fce5c746e8aceacb786",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-16T11:14:23.844Z",
+      "factsCheckedAt": "2026-11-16T11:14:06Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Primary sources and an explicitly fictional example. No product operation is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy.ai generated media deletion",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64284254089497-How-can-I-delete-images-and-videos-I-generated",
+          "note": "Documents single-item deletion via Collection and the character album.",
+          "checkedAt": "2026-11-16T11:14:06Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261116-weekly-refill/candy-collection-remove-one-generated-media-item.json",
+              "sha256": "9e8825dbc259934bb4ca27c58feeb5be695ce5091c4f74e5864145377b7b4986"
+            }
+          ]
+        },
+        {
+          "name": "Candy.ai privacy notice",
+          "url": "https://candy.ai/privacy-policy",
+          "note": "Identifies the operator and its handling of account and service data.",
+          "checkedAt": "2026-11-16T11:14:06Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261116-weekly-refill/candy-collection-remove-one-generated-media-item.json",
+              "sha256": "9e8825dbc259934bb4ca27c58feeb5be695ce5091c4f74e5864145377b7b4986"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "e8cdaf60dbcb8eecb795e188a8d14aef77466f2c5296251829ef2809215210b0"
     }
   }
 }
