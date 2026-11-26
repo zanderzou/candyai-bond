@@ -1,0 +1,53 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-multi-mode-upgrade-versus-chat-reset",
+  "order": 9,
+  "reviewedAt": "2026-11-26T09:33:54.711Z",
+  "factsCheckedAt": "2026-11-26T09:33:54.711Z",
+  "contentSha256": "aa4185576defd99d900f5fd8a7eb9c54aa4a08a710787d572a03e1b94ae129c8",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-12-10T16:17:12.000Z",
+  "readerQuestion": "Do I need to reset an existing conversation to inspect the new chat interface?",
+  "applicableClaims": [
+    {
+      "name": "Candy.ai Help: Multi Mode Chat",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64285069451417-What-is-Multi-Mode-Chat",
+      "note": "Read November 13 eligibility for standard realistic female AI characters including CMAI, existing chat menu upgrade option, new/reset interface adoption and defaults limited to supported characters. Reset is not recommended as a diagnostic.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1132view1"
+    },
+    {
+      "name": "Candy.ai Help: relationship progress and streaks",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/59631183815065-Can-I-restore-relationship-progress-or-streaks",
+      "note": "Read July 3 chat reset restarts progression, deletion removes related history, technical disappearance may be investigated. A support investigation is not guaranteed restoration of a deliberately deleted chat.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1133view2"
+    }
+  ],
+  "exampleType": "Original illustrative guidance, not an unperformed product test",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-26-two-blogs-per-site/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-multi-mode-upgrade-versus-chat-reset.webp",
+    "sha256": "e1d820549260c1b16fcae03f47ad4a8b4a2fe46fca99beacc9129fb61416cac4",
+    "originalPngSha256": "90363f5ad94366ab2a6715dcbd9b99a585a585f48f998786a587181c84d7a6de",
+    "width": 1672,
+    "height": 941,
+    "type": "Original imagegen editorial artwork",
+    "alt": "An original adult fictional woman points toward an intact open navy journal while a separate new cream journal remains closed.",
+    "deliveryConversion": "WebP quality 92; original dimensions retained; no content alteration",
+    "visuallyReviewed": true
+  },
+  "editorialReview": {
+    "readerAction": "Check character eligibility and the documented existing-chat upgrade option, keeping interface settings separate from relationship progression.",
+    "wordCount": 356,
+    "sourceLinksKeptInPrivateEvidence": true,
+    "factBasis": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed.",
+    "reviewBasis": {
+      "intent": "Do I need to reset an existing conversation to inspect the new chat interface?",
+      "independentValue": "Check character eligibility and the documented existing-chat upgrade option, keeping interface settings separate from relationship progression.",
+      "image": "An original adult fictional woman points toward an intact open navy journal while a separate new cream journal remains closed.",
+      "readability": "Individually edited answer-led prose and a bounded worked example; no copied brand-swap template.",
+      "layout": "Pending complete-build desktop/mobile checks; separately required before deployment."
+    }
+  }
+}

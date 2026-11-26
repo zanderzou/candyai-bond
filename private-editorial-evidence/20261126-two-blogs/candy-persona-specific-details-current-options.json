@@ -1,0 +1,53 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-persona-specific-details-current-options",
+  "order": 10,
+  "reviewedAt": "2026-11-26T09:33:54.711Z",
+  "factsCheckedAt": "2026-11-26T09:33:54.711Z",
+  "contentSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-12-17T16:17:12.000Z",
+  "readerQuestion": "What should I put in a persona so a character has a clear representation of my fictional role?",
+  "applicableClaims": [
+    {
+      "name": "Candy.ai Help: Create Your Persona",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64284894876313-What-is-Create-Your-Persona",
+      "note": "Read November 13 My Profile > Settings > Your Personas > Create Your Persona route and explicit possible response/image inconsistencies. No fixed Premium Plus entitlement inferred from this newer general entry.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1132view2"
+    },
+    {
+      "name": "Candy.ai Help: Persona field details",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users",
+      "note": "Read August 25 older field list and plan-qualified bio/relationship/intimacy fields. Current available options must be checked; no universal field set or current tariff asserted.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1133view4"
+    }
+  ],
+  "exampleType": "Original illustrative guidance, not an unperformed product test",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-26-two-blogs-per-site/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-persona-specific-details-current-options.webp",
+    "sha256": "5ca8a926454fd81d975c3c13278c38bf152879e1af6a12527d3f67658ee221a4",
+    "originalPngSha256": "8907ad61b2b518a55e8a3346d1d3cfefbd0ae27d7d301a7a04ecf6aec1db0d5e",
+    "width": 1672,
+    "height": 941,
+    "type": "Original imagegen editorial artwork",
+    "alt": "An original adult fictional woman and her matching mirror reflection share brunette hair, gold hoops and scarlet swimwear beside a blank identity card.",
+    "deliveryConversion": "WebP quality 92; original dimensions retained; no content alteration",
+    "visuallyReviewed": true
+  },
+  "editorialReview": {
+    "readerAction": "Use a concise identity, relevant appearance and one scene-relevant interest, then inspect available fields and the actual response.",
+    "wordCount": 364,
+    "sourceLinksKeptInPrivateEvidence": true,
+    "factBasis": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed.",
+    "reviewBasis": {
+      "intent": "What should I put in a persona so a character has a clear representation of my fictional role?",
+      "independentValue": "Use a concise identity, relevant appearance and one scene-relevant interest, then inspect available fields and the actual response.",
+      "image": "An original adult fictional woman and her matching mirror reflection share brunette hair, gold hoops and scarlet swimwear beside a blank identity card.",
+      "readability": "Individually edited answer-led prose and a bounded worked example; no copied brand-swap template.",
+      "layout": "Pending complete-build desktop/mobile checks; separately required before deployment."
+    }
+  }
+}

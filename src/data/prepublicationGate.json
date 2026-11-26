@@ -364,6 +364,122 @@
       ],
       "observations": [],
       "certificateDigest": "e8cdaf60dbcb8eecb795e188a8d14aef77466f2c5296251829ef2809215210b0"
+    },
+    "candy-multi-mode-upgrade-versus-chat-reset": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-multi-mode-upgrade-versus-chat-reset",
+      "order": 9,
+      "releaseAt": "2026-12-10T16:17:12.000Z",
+      "activationAt": "2026-12-10T16:17:12.000Z",
+      "contentSha256": "aa4185576defd99d900f5fd8a7eb9c54aa4a08a710787d572a03e1b94ae129c8",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-26T09:33:54.711Z",
+      "factsCheckedAt": "2026-11-26T09:33:54.711Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy.ai Help: Multi Mode Chat",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64285069451417-What-is-Multi-Mode-Chat",
+          "note": "Read November 13 eligibility for standard realistic female AI characters including CMAI, existing chat menu upgrade option, new/reset interface adoption and defaults limited to supported characters. Reset is not recommended as a diagnostic.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1132view1",
+          "checkedAt": "2026-11-26T09:33:54.711Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-two-blogs/candy-multi-mode-upgrade-versus-chat-reset.json",
+              "sha256": "de831eab8ad5f6d15108933b4dcf3c5fa282e7c3f31ac368531f11518c828d4d"
+            }
+          ]
+        },
+        {
+          "name": "Candy.ai Help: relationship progress and streaks",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/59631183815065-Can-I-restore-relationship-progress-or-streaks",
+          "note": "Read July 3 chat reset restarts progression, deletion removes related history, technical disappearance may be investigated. A support investigation is not guaranteed restoration of a deliberately deleted chat.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1133view2",
+          "checkedAt": "2026-11-26T09:33:54.711Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-two-blogs/candy-multi-mode-upgrade-versus-chat-reset.json",
+              "sha256": "de831eab8ad5f6d15108933b4dcf3c5fa282e7c3f31ac368531f11518c828d4d"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "fc38f8bd03ce97c21d7a8a9167200bfa70031ec1ca617e0a3e3b1a797941e89c"
+    },
+    "candy-persona-specific-details-current-options": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-persona-specific-details-current-options",
+      "order": 10,
+      "releaseAt": "2026-12-17T16:17:12.000Z",
+      "activationAt": "2026-12-17T16:17:12.000Z",
+      "contentSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-26T09:33:54.711Z",
+      "factsCheckedAt": "2026-11-26T09:33:54.711Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy.ai Help: Create Your Persona",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64284894876313-What-is-Create-Your-Persona",
+          "note": "Read November 13 My Profile > Settings > Your Personas > Create Your Persona route and explicit possible response/image inconsistencies. No fixed Premium Plus entitlement inferred from this newer general entry.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1132view2",
+          "checkedAt": "2026-11-26T09:33:54.711Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-two-blogs/candy-persona-specific-details-current-options.json",
+              "sha256": "ad37fddae33a90ff925836bbc5713f0118814144902b188b68a39f3eadb8c7ac"
+            }
+          ]
+        },
+        {
+          "name": "Candy.ai Help: Persona field details",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users",
+          "note": "Read August 25 older field list and plan-qualified bio/relationship/intimacy fields. Current available options must be checked; no universal field set or current tariff asserted.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1133view4",
+          "checkedAt": "2026-11-26T09:33:54.711Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-two-blogs/candy-persona-specific-details-current-options.json",
+              "sha256": "ad37fddae33a90ff925836bbc5713f0118814144902b188b68a39f3eadb8c7ac"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "8ca6a28a1090999b9aed651018e9aae564300907d32d09d992d5e46fff1e244d"
     }
   }
 }

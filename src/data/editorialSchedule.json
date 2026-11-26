@@ -220,6 +220,56 @@
           "https://candy.ai/privacy-policy"
         ]
       ]
+    },
+    {
+      "order": 9,
+      "slug": "candy-multi-mode-upgrade-versus-chat-reset",
+      "title": "Candy.ai Multi Mode Chat: Check the Upgrade Before Resetting",
+      "readerQuestion": "Do I need to reset an existing conversation to inspect the new chat interface?",
+      "releaseAt": "2026-12-10T16:17:12.000Z",
+      "notBefore": "2026-12-10T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-26",
+      "reviewedSha256": "aa4185576defd99d900f5fd8a7eb9c54aa4a08a710787d572a03e1b94ae129c8",
+      "wordCount": 356,
+      "editorialIntent": "Check character eligibility and the documented existing-chat upgrade option, keeping interface settings separate from relationship progression.",
+      "sources": [
+        [
+          "Candy.ai Help: Multi Mode Chat",
+          "https://everai.zendesk.com/hc/en-us/articles/64285069451417-What-is-Multi-Mode-Chat"
+        ],
+        [
+          "Candy.ai Help: relationship progress and streaks",
+          "https://everai.zendesk.com/hc/en-us/articles/59631183815065-Can-I-restore-relationship-progress-or-streaks"
+        ]
+      ]
+    },
+    {
+      "order": 10,
+      "slug": "candy-persona-specific-details-current-options",
+      "title": "Candy.ai Persona: Choose a Few Details the Chat Can Use",
+      "readerQuestion": "What should I put in a persona so a character has a clear representation of my fictional role?",
+      "releaseAt": "2026-12-17T16:17:12.000Z",
+      "notBefore": "2026-12-17T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-26",
+      "reviewedSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+      "wordCount": 364,
+      "editorialIntent": "Use a concise identity, relevant appearance and one scene-relevant interest, then inspect available fields and the actual response.",
+      "sources": [
+        [
+          "Candy.ai Help: Create Your Persona",
+          "https://everai.zendesk.com/hc/en-us/articles/64284894876313-What-is-Create-Your-Persona"
+        ],
+        [
+          "Candy.ai Help: Persona field details",
+          "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users"
+        ]
+      ]
     }
   ],
   "baselinePhase": 1,
