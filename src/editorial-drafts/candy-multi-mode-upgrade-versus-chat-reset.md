@@ -2,7 +2,7 @@
 title: "Candy.ai Multi Mode Chat: Check the Upgrade Before Resetting"
 description: "Check character eligibility and the documented existing-chat upgrade option, keeping interface settings separate from relationship progression."
 publishDate: "2026-12-11"
-updatedDate: "2026-12-11"
+updatedDate: "2026-11-26"
 category: "Practical Guides"
 readTime: "2 min read"
 answer: "Check character eligibility and the documented existing-chat upgrade option, keeping interface settings separate from relationship progression."

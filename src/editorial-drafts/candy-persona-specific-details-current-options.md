@@ -2,7 +2,7 @@
 title: "Candy.ai Persona: Choose a Few Details the Chat Can Use"
 description: "Use a concise identity, relevant appearance and one scene-relevant interest, then inspect available fields and the actual response."
 publishDate: "2026-12-18"
-updatedDate: "2026-12-18"
+updatedDate: "2026-11-26"
 category: "Practical Guides"
 readTime: "2 min read"
 answer: "Use a concise identity, relevant appearance and one scene-relevant interest, then inspect available fields and the actual response."

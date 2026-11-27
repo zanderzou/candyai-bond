@@ -4,7 +4,7 @@
   "order": 10,
   "reviewedAt": "2026-11-26T09:33:54.711Z",
   "factsCheckedAt": "2026-11-26T09:33:54.711Z",
-  "contentSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+  "contentSha256": "61c8ce54698a1cbf2905cca162e3483427acf6b6f160ecf7ff4e820a1f5f4bf0",
   "reviewStandard": "portfolio-basic-quality-20261027",
   "releaseAt": "2026-12-17T16:17:12.000Z",
   "readerQuestion": "What should I put in a persona so a character has a clear representation of my fictional role?",
@@ -49,5 +49,12 @@
       "readability": "Individually edited answer-led prose and a bounded worked example; no copied brand-swap template.",
       "layout": "Pending complete-build desktop/mobile checks; separately required before deployment."
     }
+  },
+  "reviewDateCorrection": {
+    "checkedAt": "2026-11-27T01:04:45.849Z",
+    "originalVerifiedReviewDate": "2026-11-26",
+    "previousContentSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+    "previousCertificateDigest": "8ca6a28a1090999b9aed651018e9aae564300907d32d09d992d5e46fff1e244d",
+    "change": "Use the real editorial review date in updatedDate. The published date, activation time, body, artwork, sources and previous review remain the same."
   }
 }

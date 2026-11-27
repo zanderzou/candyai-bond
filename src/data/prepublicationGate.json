@@ -372,7 +372,7 @@
       "order": 9,
       "releaseAt": "2026-12-10T16:17:12.000Z",
       "activationAt": "2026-12-10T16:17:12.000Z",
-      "contentSha256": "aa4185576defd99d900f5fd8a7eb9c54aa4a08a710787d572a03e1b94ae129c8",
+      "contentSha256": "a3cda35852822baa9c0bc577782f99e62e861b4f1d021333a4b445c626de9cbf",
       "skill": {
         "name": "write-tested-seo",
         "version": "1.5"
@@ -400,7 +400,7 @@
           "evidence": [
             {
               "path": "private-editorial-evidence/20261126-two-blogs/candy-multi-mode-upgrade-versus-chat-reset.json",
-              "sha256": "de831eab8ad5f6d15108933b4dcf3c5fa282e7c3f31ac368531f11518c828d4d"
+              "sha256": "63ed57aeb5ef517791cde214f1c3722ccc5e02912de8168149a91d79f0d28cf0"
             }
           ]
         },
@@ -415,13 +415,13 @@
           "evidence": [
             {
               "path": "private-editorial-evidence/20261126-two-blogs/candy-multi-mode-upgrade-versus-chat-reset.json",
-              "sha256": "de831eab8ad5f6d15108933b4dcf3c5fa282e7c3f31ac368531f11518c828d4d"
+              "sha256": "63ed57aeb5ef517791cde214f1c3722ccc5e02912de8168149a91d79f0d28cf0"
             }
           ]
         }
       ],
       "observations": [],
-      "certificateDigest": "fc38f8bd03ce97c21d7a8a9167200bfa70031ec1ca617e0a3e3b1a797941e89c"
+      "certificateDigest": "0545a4296aaf4f222d6064e6434b2bc130245f4081667c2bbe40b1af2ca7767b"
     },
     "candy-persona-specific-details-current-options": {
       "schemaVersion": 1,
@@ -430,7 +430,7 @@
       "order": 10,
       "releaseAt": "2026-12-17T16:17:12.000Z",
       "activationAt": "2026-12-17T16:17:12.000Z",
-      "contentSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+      "contentSha256": "61c8ce54698a1cbf2905cca162e3483427acf6b6f160ecf7ff4e820a1f5f4bf0",
       "skill": {
         "name": "write-tested-seo",
         "version": "1.5"
@@ -458,7 +458,7 @@
           "evidence": [
             {
               "path": "private-editorial-evidence/20261126-two-blogs/candy-persona-specific-details-current-options.json",
-              "sha256": "ad37fddae33a90ff925836bbc5713f0118814144902b188b68a39f3eadb8c7ac"
+              "sha256": "e41b497f5eb0e7296ef13db0d58bce688dc19205cca2e46b49a63adeeea28bec"
             }
           ]
         },
@@ -473,13 +473,147 @@
           "evidence": [
             {
               "path": "private-editorial-evidence/20261126-two-blogs/candy-persona-specific-details-current-options.json",
-              "sha256": "ad37fddae33a90ff925836bbc5713f0118814144902b188b68a39f3eadb8c7ac"
+              "sha256": "e41b497f5eb0e7296ef13db0d58bce688dc19205cca2e46b49a63adeeea28bec"
             }
           ]
         }
       ],
       "observations": [],
-      "certificateDigest": "8ca6a28a1090999b9aed651018e9aae564300907d32d09d992d5e46fff1e244d"
+      "certificateDigest": "0707c152c1323ecca3c05e45633292caeeab4c7895326f391aecfcb174d32cc9"
+    },
+    "candy-ai-persona-review-one-updated-detail-at-a-time": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-ai-persona-review-one-updated-detail-at-a-time",
+      "order": 11,
+      "releaseAt": "2026-12-24T16:17:12.000Z",
+      "activationAt": "2026-12-24T16:17:12.000Z",
+      "contentSha256": "843dcab3db028632dad82bda8c11d00cc986e78ad6fc7c9cdc50f28265ee2332",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-27T01:04:33.316Z",
+      "factsCheckedAt": "2026-11-27T01:04:33.316Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy.ai Help: Create Your Persona",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64284894876313-What-is-Create-Your-Persona",
+          "note": "Read November 13 My Profile > Settings > Your Personas > Create Your Persona route and explicit possible response/image inconsistencies. No fixed Premium Plus entitlement inferred from this newer general entry.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1132view2",
+          "checkedAt": "2026-11-27T01:04:33.316Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-next-two-blogs/candy-ai-persona-review-one-updated-detail-at-a-time.json",
+              "sha256": "db03caa7479bc0bd90d715c1588ec12f1ebe97238592a54a7b5a3fb86b555f2d"
+            }
+          ]
+        },
+        {
+          "name": "Candy.ai Help: Persona field details",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users",
+          "note": "Read August 25 older field list and plan-qualified bio/relationship/intimacy fields. Current available options must be checked; no universal field set or current tariff asserted.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1133view4",
+          "checkedAt": "2026-11-27T01:04:33.316Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-next-two-blogs/candy-ai-persona-review-one-updated-detail-at-a-time.json",
+              "sha256": "db03caa7479bc0bd90d715c1588ec12f1ebe97238592a54a7b5a3fb86b555f2d"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "d66959ccfac27a09f5499d421adc2bc33708454a49435326fdd6ca90608b5491"
+    },
+    "candy-ai-check-where-a-generated-media-copy-is-saved": {
+      "schemaVersion": 1,
+      "domain": "candyai.bond",
+      "slug": "candy-ai-check-where-a-generated-media-copy-is-saved",
+      "order": 12,
+      "releaseAt": "2026-12-31T16:17:12.000Z",
+      "activationAt": "2026-12-31T16:17:12.000Z",
+      "contentSha256": "21f5bfc560ec2fe4b131c721e4632c30b38c9ecde2e5c54f5f9923ad7f0d5107",
+      "skill": {
+        "name": "write-tested-seo",
+        "version": "1.5"
+      },
+      "reviewStandard": "portfolio-basic-quality-20261027",
+      "status": "validated",
+      "reviewedAt": "2026-11-27T01:04:33.316Z",
+      "factsCheckedAt": "2026-11-27T01:04:33.316Z",
+      "editorialReview": {
+        "readable": true,
+        "useful": true,
+        "factual": true,
+        "experienceClaims": "none",
+        "note": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed."
+      },
+      "officialSources": [
+        {
+          "name": "Candy.ai Help: delete generated images and videos",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/64284254089497-How-can-I-delete-images-and-videos-I-generated",
+          "note": "Read November 13 route: Collections/Collection, intended AI album, open target image/video, upper-left three-dot menu, Delete. No deletion was performed and no restoration or all-system-erasure claim is made.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1109view5",
+          "checkedAt": "2026-11-27T01:04:33.316Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-next-two-blogs/candy-ai-check-where-a-generated-media-copy-is-saved.json",
+              "sha256": "5d47c72a434cf1a53b56dced47f65631fbf90a4cd71b27644eb8c2222a93cd07"
+            }
+          ]
+        },
+        {
+          "name": "Candy.ai Help: download permission pop-ups",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/58794466753177-Why-am-I-getting-download-permission-pop-ups",
+          "note": "Read browser/device confirmation for generated media downloads and temporary media storage. New guide restricts its advice to the intended site and requested download rather than blanket security relaxation.",
+          "observedOn": "2026-11-26",
+          "webRecord": "turn1109view3",
+          "checkedAt": "2026-11-27T01:04:33.316Z",
+          "status": "content-retrieved",
+          "evidence": [
+            {
+              "path": "private-editorial-evidence/20261126-next-two-blogs/candy-ai-check-where-a-generated-media-copy-is-saved.json",
+              "sha256": "5d47c72a434cf1a53b56dced47f65631fbf90a4cd71b27644eb8c2222a93cd07"
+            }
+          ]
+        }
+      ],
+      "observations": [],
+      "certificateDigest": "d8b81a78eec7b38442c16f6a109c0996defdfd108b95ed61685861d2c2c02161"
+    }
+  },
+  "activationReceipts": {
+    "candy-build-your-video-preset-shot": {
+      "domain": "candyai.bond",
+      "slug": "candy-build-your-video-preset-shot",
+      "releaseAt": "2026-11-26T16:17:12.000Z",
+      "activationAt": "2026-11-26T16:17:12.000Z",
+      "contentSha256": "da5712d855215626a382a04c87c0e4b46e5ffb5fb6ee14256d3b7db0d08379cc",
+      "certificateDigest": "d43895d2205846038d587e1ce8cded27f72ac75dac8cbf2ba527d03db29be5fc",
+      "deployedAt": "2026-11-26T09:54:45.122136Z",
+      "productionVerifiedAt": "2026-11-27T00:56:42.524Z",
+      "evidence": [
+        {
+          "path": "private-editorial-evidence/20261127-activations/candy-build-your-video-preset-shot.json",
+          "sha256": "a781845fb368b20a6b81aa7ef2ab0cf2c964b120cbe937c1935c72657ff68386"
+        }
+      ]
     }
   }
 }

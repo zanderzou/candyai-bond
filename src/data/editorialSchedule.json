@@ -232,7 +232,7 @@
       "approved": true,
       "status": "editorially-reviewed",
       "sourcesCheckedAt": "2026-11-26",
-      "reviewedSha256": "aa4185576defd99d900f5fd8a7eb9c54aa4a08a710787d572a03e1b94ae129c8",
+      "reviewedSha256": "a3cda35852822baa9c0bc577782f99e62e861b4f1d021333a4b445c626de9cbf",
       "wordCount": 356,
       "editorialIntent": "Check character eligibility and the documented existing-chat upgrade option, keeping interface settings separate from relationship progression.",
       "sources": [
@@ -257,7 +257,7 @@
       "approved": true,
       "status": "editorially-reviewed",
       "sourcesCheckedAt": "2026-11-26",
-      "reviewedSha256": "29bdd3cc31bf9a1d533985c49e4bf4124de227ff5b814e1673aaf72a2b23d15a",
+      "reviewedSha256": "61c8ce54698a1cbf2905cca162e3483427acf6b6f160ecf7ff4e820a1f5f4bf0",
       "wordCount": 364,
       "editorialIntent": "Use a concise identity, relevant appearance and one scene-relevant interest, then inspect available fields and the actual response.",
       "sources": [
@@ -268,6 +268,56 @@
         [
           "Candy.ai Help: Persona field details",
           "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users"
+        ]
+      ]
+    },
+    {
+      "order": 11,
+      "slug": "candy-ai-persona-review-one-updated-detail-at-a-time",
+      "title": "Review One Changed Detail in a Candy.ai Persona",
+      "readerQuestion": "How can I tell whether a Candy.ai reply used a changed persona detail?",
+      "releaseAt": "2026-12-24T16:17:12.000Z",
+      "notBefore": "2026-12-24T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-27",
+      "reviewedSha256": "843dcab3db028632dad82bda8c11d00cc986e78ad6fc7c9cdc50f28265ee2332",
+      "wordCount": 206,
+      "editorialIntent": "Pick one fictional field, record the old and new value and evaluate the next relevant reply.",
+      "sources": [
+        [
+          "Candy.ai Help: Create Your Persona",
+          "https://everai.zendesk.com/hc/en-us/articles/64284894876313-What-is-Create-Your-Persona"
+        ],
+        [
+          "Candy.ai Help: Persona field details",
+          "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users"
+        ]
+      ]
+    },
+    {
+      "order": 12,
+      "slug": "candy-ai-check-where-a-generated-media-copy-is-saved",
+      "title": "Find the Candy.ai Media Copy You Mean to Keep",
+      "readerQuestion": "How can I tell whether I am viewing a chat preview, an album item or a downloaded file?",
+      "releaseAt": "2026-12-31T16:17:12.000Z",
+      "notBefore": "2026-12-31T16:17:12.000Z",
+      "language": "en",
+      "approved": true,
+      "status": "editorially-reviewed",
+      "sourcesCheckedAt": "2026-11-27",
+      "reviewedSha256": "21f5bfc560ec2fe4b131c721e4632c30b38c9ecde2e5c54f5f9923ad7f0d5107",
+      "wordCount": 206,
+      "editorialIntent": "Check the current location and playback before relying on a local copy or clearing an album item.",
+      "sources": [
+        [
+          "Candy.ai Help: delete generated images and videos",
+          "https://everai.zendesk.com/hc/en-us/articles/64284254089497-How-can-I-delete-images-and-videos-I-generated"
+        ],
+        [
+          "Candy.ai Help: download permission pop-ups",
+          "https://everai.zendesk.com/hc/en-us/articles/58794466753177-Why-am-I-getting-download-permission-pop-ups"
         ]
       ]
     }

@@ -1,0 +1,53 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-ai-check-where-a-generated-media-copy-is-saved",
+  "order": 12,
+  "reviewedAt": "2026-11-27T01:04:33.316Z",
+  "factsCheckedAt": "2026-11-27T01:04:33.316Z",
+  "contentSha256": "21f5bfc560ec2fe4b131c721e4632c30b38c9ecde2e5c54f5f9923ad7f0d5107",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-12-31T16:17:12.000Z",
+  "readerQuestion": "How can I tell whether I am viewing a chat preview, an album item or a downloaded file?",
+  "applicableClaims": [
+    {
+      "name": "Candy.ai Help: delete generated images and videos",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64284254089497-How-can-I-delete-images-and-videos-I-generated",
+      "note": "Read November 13 route: Collections/Collection, intended AI album, open target image/video, upper-left three-dot menu, Delete. No deletion was performed and no restoration or all-system-erasure claim is made.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1109view5"
+    },
+    {
+      "name": "Candy.ai Help: download permission pop-ups",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/58794466753177-Why-am-I-getting-download-permission-pop-ups",
+      "note": "Read browser/device confirmation for generated media downloads and temporary media storage. New guide restricts its advice to the intended site and requested download rather than blanket security relaxation.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1109view3"
+    }
+  ],
+  "exampleType": "Original illustrative guidance, not an unperformed product test",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-26-next-two-blogs-per-site/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-ai-check-where-a-generated-media-copy-is-saved.webp",
+    "sha256": "e31c9c0bef2e4dda048ccd93f872ea36d4a91690c579b4869e2d1f35f50eba41",
+    "originalPngSha256": "9162aa2141c8726935819abc6adcd80516573804f933d0a459f19f9df12a9527",
+    "width": 1672,
+    "height": 941,
+    "type": "Original imagegen editorial artwork",
+    "alt": "Cut-paper scene with a profile frame, a play frame and a separate folder holding a print.",
+    "deliveryConversion": "WebP quality 92; original dimensions retained; no content alteration",
+    "visuallyReviewed": true
+  },
+  "editorialReview": {
+    "readerAction": "Check the current location and playback before relying on a local copy or clearing an album item.",
+    "wordCount": 206,
+    "sourceLinksKeptInPrivateEvidence": true,
+    "factBasis": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed.",
+    "reviewBasis": {
+      "intent": "How can I tell whether I am viewing a chat preview, an album item or a downloaded file?",
+      "independentValue": "Check the current location and playback before relying on a local copy or clearing an album item.",
+      "image": "Cut-paper scene with a profile frame, a play frame and a separate folder holding a print.",
+      "readability": "Individually edited answer-led prose and a bounded worked example; no copied brand-swap template.",
+      "layout": "Pending complete-build desktop/mobile checks; separately required before deployment."
+    }
+  }
+}

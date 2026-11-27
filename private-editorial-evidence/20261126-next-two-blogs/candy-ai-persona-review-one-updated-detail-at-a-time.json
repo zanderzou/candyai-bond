@@ -1,0 +1,53 @@
+{
+  "domain": "candyai.bond",
+  "slug": "candy-ai-persona-review-one-updated-detail-at-a-time",
+  "order": 11,
+  "reviewedAt": "2026-11-27T01:04:33.316Z",
+  "factsCheckedAt": "2026-11-27T01:04:33.316Z",
+  "contentSha256": "843dcab3db028632dad82bda8c11d00cc986e78ad6fc7c9cdc50f28265ee2332",
+  "reviewStandard": "portfolio-basic-quality-20261027",
+  "releaseAt": "2026-12-24T16:17:12.000Z",
+  "readerQuestion": "How can I tell whether a Candy.ai reply used a changed persona detail?",
+  "applicableClaims": [
+    {
+      "name": "Candy.ai Help: Create Your Persona",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/64284894876313-What-is-Create-Your-Persona",
+      "note": "Read November 13 My Profile > Settings > Your Personas > Create Your Persona route and explicit possible response/image inconsistencies. No fixed Premium Plus entitlement inferred from this newer general entry.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1132view2"
+    },
+    {
+      "name": "Candy.ai Help: Persona field details",
+      "url": "https://everai.zendesk.com/hc/en-us/articles/61549705722265-What-is-Create-your-Persona-for-Premium-Plus-users",
+      "note": "Read August 25 older field list and plan-qualified bio/relationship/intimacy fields. Current available options must be checked; no universal field set or current tariff asserted.",
+      "observedOn": "2026-11-26",
+      "webRecord": "turn1133view4"
+    }
+  ],
+  "exampleType": "Original illustrative guidance, not an unperformed product test",
+  "proofOfExistingPublicPrefix": "research/prepublish-tested-seo-20261023/runs/2026-11-26-next-two-blogs-per-site/sites/candyai.bond/baseline.json",
+  "illustration": {
+    "path": "public/assets/editorial-candy-ai-persona-review-one-updated-detail-at-a-time.webp",
+    "sha256": "c9f673b8929a7dcb37af3df4a6805093759d2dbc2c973d74e54f1411fe977101",
+    "originalPngSha256": "9175180a6d93e43f11041667cf43deecf0f606d9c379259b8b98b00053cf41fc",
+    "width": 1672,
+    "height": 941,
+    "type": "Original imagegen editorial artwork",
+    "alt": "Fictional adult beside two profile cards with one highlighted detail on the second.",
+    "deliveryConversion": "WebP quality 92; original dimensions retained; no content alteration",
+    "visuallyReviewed": true
+  },
+  "editorialReview": {
+    "readerAction": "Pick one fictional field, record the old and new value and evaluate the next relevant reply.",
+    "wordCount": 206,
+    "sourceLinksKeptInPrivateEvidence": true,
+    "factBasis": "Relevant primary documents and explicitly illustrative examples. No product operation, performance or actual print test is claimed.",
+    "reviewBasis": {
+      "intent": "How can I tell whether a Candy.ai reply used a changed persona detail?",
+      "independentValue": "Pick one fictional field, record the old and new value and evaluate the next relevant reply.",
+      "image": "Fictional adult beside two profile cards with one highlighted detail on the second.",
+      "readability": "Individually edited answer-led prose and a bounded worked example; no copied brand-swap template.",
+      "layout": "Pending complete-build desktop/mobile checks; separately required before deployment."
+    }
+  }
+}
